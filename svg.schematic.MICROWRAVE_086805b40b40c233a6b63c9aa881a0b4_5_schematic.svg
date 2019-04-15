@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" height="20" xmlns:xml="http://www.w3.org/XML/1998/namespace" enable-background="new 0 0 36.584 21.321"  version="1.1" x="0px" y="0px" viewBox="0 0 35 20" xml:space="preserve" width="35">
+    <desc >
+        <referenceFile >kobiconn-16PJ138.schematic.svg</referenceFile>
+    </desc>
+    <metadata  id="metadata36">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs  id="defs34"/>
+    <g transform="translate(0,-1.3209991)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g >
+                            <g >
+                                <g >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g  id="schematic" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0">
+                                                    <path  fill="none" d="M 27,5.3209991 H 16.200001 l -3.6,3.6000004 -3.6000002,-3.6000004" stroke-width="1" id="line12" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" stroke="#000000" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0"/>
+                                                    <line x1="27" x2="5.4000015"  fill="none" stroke-width="1" id="line14" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" stroke="#000000" y1="19.320999" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.1" y2="19.320999"/>
+                                                    <g transform="rotate(-90)" >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <rect height="5"  x="-20.320999" y="1" id="rect16" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.2.0.0.0.0.0.0.0.0.0.0.0" width="16"/>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                    <line x1="34.200001" x2="27"  fill="none" stroke-width="0.75" id="connector3pin" style="stroke-linecap:round" stroke="#787878" y1="5.3209991" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.3" y2="5.3209991"/>
+                                                    <rect height="0.001"  x="34.200001" y="5.3209991" style="fill:none" width="0.001"/>
+                                                    <text  x="25.700199" y="1.5971993" font-size="3.024" id="text20" style="font-size:3.02399993px;font-family:DroidSans" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.5"/>
+                                                    <line x1="34.200001" x2="27"  fill="none" stroke-width="0.75" id="connector0pin" style="stroke-linecap:round" stroke="#787878" y1="13.320999" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.6" y2="13.320999"/>
+                                                    <rect height="0"  x="36" y="19.926001" style="fill:none" width="0.001"/>
+                                                    <text  x="25.700199" y="8.798399" font-size="3.024" id="text24" style="font-size:3.02399993px;font-family:DroidSans" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.8"/>
+                                                    <line x1="34.200001" x2="27"  fill="none" stroke-width="0.75" id="connector2pin" style="stroke-linecap:round" stroke="#787878" y1="19.320999" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.9" y2="19.320999"/>
+                                                    <rect height="0"  x="36" y="5.527" id="connector2terminal" style="fill:none" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.10" width="0.001"/>
+                                                    <text  x="33.993847" y="17.908499" font-size="3.024" id="text28" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.02399993px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:end;text-anchor:end" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.11">SLEEVE</text>
+                                                    <g transform="translate(-1.7999992,3.0000001)" >
+                                                        <g >
+                                                            <g >
+                                                                <g >
+                                                                    <g >
+                                                                        <g >
+                                                                            <g >
+                                                                                <g >
+                                                                                    <g >
+                                                                                        <g >
+                                                                                            <g >
+                                                                                                <g  id="g4573" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.12.0.0.0.0.0.0.0.0.0.0.0">
+                                                                                                    <path  fill="none" stroke-opacity="1" d="M 29,10.320999 H 19 V 5.3209991" stroke-width="1" id="path3744" style="stroke-linecap:round;stroke-linejoin:miter;" stroke="#000000" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.12.0.0.0.0.0.0.0.0.0.0.0.0"/>
+                                                                                                    <path  fill="none" stroke-opacity="1" d="m 17,7.3209991 2,-2 2,2" stroke-width="1" id="path4569" style="stroke-linecap:butt;stroke-linejoin:miter;" stroke="#000000" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.12.0.0.0.0.0.0.0.0.0.0.0.1"/>
+                                                                                                </g>
+                                                                                            </g>
+                                                                                        </g>
+                                                                                    </g>
+                                                                                </g>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                    <text  x="33.97366" y="11.783499" font-size="3.024" id="text4575" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.02399993px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:end;text-anchor:end" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.13">SWITCH</text>
+                                                    <text  x="34.179192" y="3.8459988" font-size="3.024" id="text4577" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.02399993px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:end;text-anchor:end" gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.14">TIP</text>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

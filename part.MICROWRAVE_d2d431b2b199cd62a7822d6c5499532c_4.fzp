@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module fritzingVersion="0.4.1b.07.17.4356" moduleId="MICROWRAVE_d2d431b2b199cd62a7822d6c5499532c_4" referenceFile="Rotary_Switch_12x1.fzp">
+ <version>2</version>
+ <author>Wray Bowling</author>
+ <title>Rotary_Switch_12x1</title>
+ <label>switch</label>
+ <date>Mon Apr 15 2019</date>
+ <tags>
+  <tag>switch</tag>
+ </tags>
+ <properties>
+  <property name="family">switch</property>
+  <property name="variant">variant 2</property>
+  <property name="part number"></property>
+  <property name="mouser number">105-SR2612F-12-38S</property>
+  <property name="layer"></property>
+ </properties>
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Rotary Switch 12 position 1 pole&lt;/p>&lt;/body>&lt;/html></description>
+ <views>
+  <iconView>
+   <layers image="icon/MICROWRAVE_b51d6f721536d71729014ab6cae2c3da_1_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/MICROWRAVE_b51d6f721536d71729014ab6cae2c3da_1_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/MICROWRAVE_b51d6f721536d71729014ab6cae2c3da_1_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/MICROWRAVE_b51d6f721536d71729014ab6cae2c3da_1_pcb.svg">
+    <layer layerId="copper1"/>
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector type="pad" id="connector3" name="3">
+   <description>no description yet</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector3pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector3pin" terminalId="connector3terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector3pad" layer="copper0"/>
+     <p svgId="connector3pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="pad" id="connector4" name="4">
+   <description>no description yet</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector4" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector4" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector4pad" layer="copper0"/>
+     <p svgId="connector4pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="pad" id="connector5" name="5">
+   <description>no description yet</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector5" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector5" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector5pad" layer="copper0"/>
+     <p svgId="connector5pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="pad" id="connector6" name="6">
+   <description>no description yet</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector6" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector6" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector6pad" layer="copper0"/>
+     <p svgId="connector6pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="pad" id="connector7" name="7">
+   <description>no description yet</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector7" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector7" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector7pad" layer="copper0"/>
+     <p svgId="connector7pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="pad" id="connector8" name="8">
+   <description>no description yet</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector8" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector8" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector8pad" layer="copper0"/>
+     <p svgId="connector8pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="pad" id="connector9" name="9">
+   <description>no description yet</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector9" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector9" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector9pad" layer="copper0"/>
+     <p svgId="connector9pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="pad" id="connector10" name="10">
+   <description>no description yet</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector10" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector10" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector10pad" layer="copper0"/>
+     <p svgId="connector10pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="pad" id="connector11" name="11">
+   <description>no description yet</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector11" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector11" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector11pad" layer="copper0"/>
+     <p svgId="connector11pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="pad" id="connector0" name="0">
+   <description>no description yet</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector0pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector0pin" terminalId="connector0terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pad" layer="copper0"/>
+     <p svgId="connector0pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="pad" id="connector12" name="12">
+   <description>no description yet</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector12" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector12" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector12pad" layer="copper0"/>
+     <p svgId="connector12pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="pad" id="connector1" name="1">
+   <description>no description yet</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector1pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector1pin" terminalId="connector1terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pad" layer="copper0"/>
+     <p svgId="connector1pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="pad" id="connector2" name="2">
+   <description>no description yet</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector2pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector2pin" terminalId="connector2terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pad" layer="copper0"/>
+     <p svgId="connector2pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+</module>

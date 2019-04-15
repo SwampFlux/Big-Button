@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" height="15mm"  version="1.1" x="0in" y="0in" id="svg4645" viewBox="0 0 10 14.999999" width="10mm" gorn="0">
+    <desc >
+        <referenceFile >kobiconn-16PJ138.pcb.svg</referenceFile>
+    </desc>
+    <metadata  id="metadata4649">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs  id="defs4647"/>
+
+  
+
+
+v
+     units="in" />
+
+<style  id="style4635">
+#copper0, #copper1 {
+  stroke: #f7bd13;
+}
+#silkscreen{
+  stroke: black;
+}
+</style>
+    <g transform="translate(0.30392088,4.0148015)" >
+        <g >
+            <g  stroke-width="1" id="copper0" stroke="#f7bd13" gorn="0.4.0.0">
+                <g  id="copper1" stroke="#f7bd13" gorn="0.4.0.0.0">
+                    <rect height="1.0544015"  fill="none" stroke-opacity="1" ry="0.5" x="3.8327692" y="0.29799724" stroke-width="0.44979182" id="connector3pad" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;" connectorname="RING" stroke="#ff0000" width="1.8866202" gorn="0.4.0.0.0.0"/>
+                    <rect height="1.0544015"  fill="none" stroke-opacity="1" ry="0.52720076" x="3.8327692" y="7.9179969" stroke-width="0.44979182" id="connector2pad" connectorname="RING" style="stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;" stroke="#00ff00" width="1.8866202" gorn="0.4.0.0.0.1"/>
+                    <circle cy="-1.714802" r="0.64402664"  fill="none" stroke-opacity="1" stroke-width="0.44979185" id="connector0pad" style="stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;" stroke="#ff6600" cx="4.7760792" gorn="0.4.0.0.0.2"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(1.0041896,2.6825837)" >
+        <g >
+            <g  stroke-width="1" id="silkscreen" stroke="#000000" gorn="0.5.0.0">
+                <path  fill="none" d="M 2.2404504,1.6761025 H 0.79883884 V 10.230937 H 2.2404504 m 3.6707201,0 H 7.352782 V 1.6761025 H 5.9111705" stroke-width="0.5" id="path4642" stroke="#000000" gorn="0.5.0.0.0"/>
+            </g>
+        </g>
+    </g>
+</svg>

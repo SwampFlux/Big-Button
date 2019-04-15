@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" height="64.8825"  version="1.1" enable-background="new 0 0 36.584 21.321" xml:space="preserve" id="svg5245" x="0px" y="0px" viewBox="0 0 57.248844 64.8825" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="57.248844" gorn="0">
+    <desc >
+        <referenceFile >12-terminal-rotary-switch.schematic.svg</referenceFile>
+    </desc>
+    <metadata  id="metadata36">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:cc="http://creativecommons.org/ns#" rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs  id="defs34"/>
+    <g  transform="translate(-47.479659,41.029296)">
+        <g >
+            <g >
+                <g >
+                    <g  id="schematic" gorn="0.3.0.0.0.0">
+                        <text  font-size="3.024" id="text20" x="25.700199" y="1.5971993" style="font-size:3.02399993px;font-family:DroidSans" gorn="0.3.0.0.0.0.0"/>
+                        <rect height="0"  x="36" y="19.926001" style="fill:none" width="0.001"/>
+                        <text  font-size="3.024" id="text24" x="25.700199" y="8.798399" style="font-size:3.02399993px;font-family:DroidSans" gorn="0.3.0.0.0.0.2"/>
+                        <rect height="0"  x="36" y="5.527" style="fill:none" width="0.001"/>
+                        <g  transform="matrix(1.8525126,0,0,1.8525126,-40.773242,-20.038917)">
+                            <g >
+                                <g >
+                                    <g >
+                                        <g  id="g5914" gorn="0.3.0.0.0.0.4.0.0.0.0">
+                                            <g  transform="rotate(-12.093432)">
+                                                <g >
+                                                    <g >
+                                                        <g >
+                                                            <circle fill-opacity="1"  r="13.409114" fill="none" id="circle5820" style="stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;" cx="62.219288" cy="19.589806" stroke-opacity="1" stroke-width="0.37713131" gorn="0.3.0.0.0.0.4.0.0.0.0.0.0.0.0.0" stroke="#e6e6e6"/>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <circle fill-opacity="1"  r="1.3125" fill="none" id="circle5800" style="stroke-miterlimit:4;stroke-dasharray:none;" cx="65.016876" cy="6.3440509" stroke-opacity="1" stroke-width="0.375" gorn="0.3.0.0.0.0.4.0.0.0.0.1" stroke="#000000"/>
+                                            <text  font-size="3.024" id="text5834" x="69.070396" y="-4.4583073" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:center;text-anchor:middle" gorn="0.3.0.0.0.0.4.0.0.0.0.2">1</text>
+                                            <path  fill="none" d="m 59.065725,0.73409186 0.0051,-1.5477685 1.451447,0.4878835 m -1.451404,-0.3628835 5.061274,6.02347384" id="path5850" style="stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-opacity="1" stroke-width="0.5" gorn="0.3.0.0.0.0.4.0.0.0.0.3" stroke="#000000"/>
+                                            <text  font-size="3.024" id="text5854" x="60.86956" y="-4.4583077" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:center;text-anchor:middle" gorn="0.3.0.0.0.0.4.0.0.0.0.4">3</text>
+                                            <text  font-size="3.024" id="text5856" x="65.053665" y="-5.0719752" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:center;text-anchor:middle" gorn="0.3.0.0.0.0.4.0.0.0.0.5">2</text>
+                                            <text  font-size="3.024" id="text5858" x="57.410706" y="-2.2825754" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:center;text-anchor:middle" gorn="0.3.0.0.0.0.4.0.0.0.0.6">4</text>
+                                            <text  font-size="3.024" id="text5860" x="54.956032" y="0.95312899" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:center;text-anchor:middle" gorn="0.3.0.0.0.0.4.0.0.0.0.7">5</text>
+                                            <text  font-size="3.024" id="text5862" x="53.617119" y="4.6351376" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:center;text-anchor:middle" gorn="0.3.0.0.0.0.4.0.0.0.0.8">6</text>
+                                            <text  font-size="3.024" id="text5864" x="53.226604" y="8.4845095" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:center;text-anchor:middle" gorn="0.3.0.0.0.0.4.0.0.0.0.9">7</text>
+                                            <text  font-size="3.024" id="text5866" x="54.73288" y="12.333881" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:center;text-anchor:middle" gorn="0.3.0.0.0.0.4.0.0.0.0.10">8</text>
+                                            <text  font-size="3.024" id="text5868" x="57.131763" y="15.625374" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:center;text-anchor:middle" gorn="0.3.0.0.0.0.4.0.0.0.0.11">9</text>
+                                            <text  font-size="3.024" id="text5870" x="60.590618" y="17.633741" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:center;text-anchor:middle" gorn="0.3.0.0.0.0.4.0.0.0.0.12">10</text>
+                                            <text  font-size="3.024" id="text5872" x="64.718933" y="18.637926" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:center;text-anchor:middle" gorn="0.3.0.0.0.0.4.0.0.0.0.13">11</text>
+                                            <text  font-size="3.024" id="text5874" x="69.01461" y="17.633741" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;text-align:center;text-anchor:middle" gorn="0.3.0.0.0.0.4.0.0.0.0.14">12</text>
+                                            <path  fill="none" d="M 66.471409,6.3209991 H 72" id="path5877" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-opacity="1" stroke-width="0.5" gorn="0.3.0.0.0.0.4.0.0.0.0.15" stroke="#000000"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="rotate(-12.093432)">
+                            <g >
+                                <g >
+                                    <g >
+                                        <circle fill-opacity="1"  r="2.4314227" fill="none" id="connector8" style="stroke-miterlimit:4;stroke-dasharray:none;" cx="51.341106" cy="17.300686" stroke-opacity="1" stroke-width="0.69469219" gorn="0.3.0.0.0.0.5.0.0.0.0" stroke="#808080"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="rotate(-12.093432)">
+                            <g >
+                                <g >
+                                    <g >
+                                        <circle fill-opacity="1"  r="2.4314227" fill="none" id="connector10" style="stroke-miterlimit:4;stroke-dasharray:none;" cx="63.961349" cy="33.625954" stroke-opacity="1" stroke-width="0.69469219" gorn="0.3.0.0.0.0.6.0.0.0.0" stroke="#808080"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="rotate(-12.093432)">
+                            <g >
+                                <g >
+                                    <g >
+                                        <circle fill-opacity="1"  r="2.4314227" fill="none" id="connector12" style="stroke-miterlimit:4;stroke-dasharray:none;" cx="83.991631" cy="37.562542" stroke-opacity="1" stroke-width="0.69469219" gorn="0.3.0.0.0.0.7.0.0.0.0" stroke="#808080"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="rotate(-12.093432)">
+                            <g >
+                                <g >
+                                    <g >
+                                        <circle fill-opacity="1"  r="2.4314227" fill="none" id="connector2pin" style="stroke-miterlimit:4;stroke-dasharray:none;" cx="86.075706" cy="-20.675821" stroke-opacity="1" stroke-width="0.69469219" gorn="0.3.0.0.0.0.8.0.0.0.0" stroke="#808080"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="rotate(-12.093432)">
+                            <g >
+                                <g >
+                                    <g >
+                                        <circle fill-opacity="1"  r="2.4314227" fill="none" id="connector4" style="stroke-miterlimit:4;stroke-dasharray:none;" cx="65.929642" cy="-18.128616" stroke-opacity="1" stroke-width="0.69469219" gorn="0.3.0.0.0.0.9.0.0.0.0" stroke="#808080"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="rotate(-12.093432)">
+                            <g >
+                                <g >
+                                    <g >
+                                        <circle fill-opacity="1"  r="2.4314227" fill="none" id="connector6" style="stroke-miterlimit:4;stroke-dasharray:none;" cx="52.267365" cy="-3.0769548" stroke-opacity="1" stroke-width="0.69469219" gorn="0.3.0.0.0.0.10.0.0.0.0" stroke="#808080"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="rotate(8.0849344)">
+                            <g >
+                                <g >
+                                    <g >
+                                        <circle fill-opacity="1"  r="2.4314227" fill="none" id="connector7" style="stroke-miterlimit:4;stroke-dasharray:none;" cx="49.255795" cy="-10.611021" stroke-opacity="1" stroke-width="0.69469219" gorn="0.3.0.0.0.0.11.0.0.0.0" stroke="#808080"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="rotate(8.0849344)">
+                            <g >
+                                <g >
+                                    <g >
+                                        <circle fill-opacity="1"  r="2.4314227" fill="none" id="connector9" style="stroke-miterlimit:4;stroke-dasharray:none;" cx="61.876034" cy="5.7142439" stroke-opacity="1" stroke-width="0.69469219" gorn="0.3.0.0.0.0.12.0.0.0.0" stroke="#808080"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="rotate(8.0849344)">
+                            <g >
+                                <g >
+                                    <g >
+                                        <circle fill-opacity="1"  r="2.4314227" fill="none" id="connector11" style="stroke-miterlimit:4;stroke-dasharray:none;" cx="81.906334" cy="9.6508331" stroke-opacity="1" stroke-width="0.69469219" gorn="0.3.0.0.0.0.13.0.0.0.0" stroke="#808080"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="rotate(8.0849344)">
+                            <g >
+                                <g >
+                                    <g >
+                                        <circle fill-opacity="1"  r="2.4314227" fill="none" id="connector1pin" style="stroke-miterlimit:4;stroke-dasharray:none;" cx="83.99041" cy="-48.587528" stroke-opacity="1" stroke-width="0.69469219" gorn="0.3.0.0.0.0.14.0.0.0.0" stroke="#808080"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="rotate(8.0849344)">
+                            <g >
+                                <g >
+                                    <g >
+                                        <circle fill-opacity="1"  r="2.4314227" fill="none" id="connector3pin" style="stroke-miterlimit:4;stroke-dasharray:none;" cx="63.84433" cy="-46.040325" stroke-opacity="1" stroke-width="0.69469219" gorn="0.3.0.0.0.0.15.0.0.0.0" stroke="#808080"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="rotate(8.0849344)">
+                            <g >
+                                <g >
+                                    <g >
+                                        <circle fill-opacity="1"  r="2.4314227" fill="none" id="connector5" style="stroke-miterlimit:4;stroke-dasharray:none;" cx="50.182049" cy="-30.988663" stroke-opacity="1" stroke-width="0.69469219" gorn="0.3.0.0.0.0.16.0.0.0.0" stroke="#808080"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <path  fill="none" d="M 92.607663,-8.3291865 H 98.1652" id="connector0pin" style="stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" stroke-opacity="1" stroke-width="0.9262563" gorn="0.3.0.0.0.0.17" stroke="#808080"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
